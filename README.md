@@ -1,16 +1,12 @@
-# flutter_fb_notes
+# Tools
 
-A new Flutter project.
+- Flutter
+- Dart
+- Firebase
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+A simple notes saving app using flutter and firebase..
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Pic1](https://user-images.githubusercontent.com/61192087/229482208-f96957c9-0f67-4abe-9f31-d87aa38fde3a.PNG)
+![Pic2](https://user-images.githubusercontent.com/61192087/229482216-0d100339-6b3d-4b8d-917f-fd5ba99a0e45.PNG)
